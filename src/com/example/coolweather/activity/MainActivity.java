@@ -1,4 +1,9 @@
-package com.example.coolweather;
+package com.example.coolweather.activity;
+
+import com.example.coolweather.R;
+import com.example.coolweather.R.id;
+import com.example.coolweather.R.layout;
+import com.example.coolweather.R.menu;
 
 import android.app.Activity;
 import android.os.Bundle;
